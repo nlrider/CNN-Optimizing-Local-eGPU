@@ -1,2 +1,2 @@
 # CNN-Optimizing-Local-eGPU
-This is a great tutorial from Medium.com which allowed me to train and test a dataset from MNIST.  Despite the challenges with using eGPUs and the Mac OS, it also enabled me to verify that my local deep learning pipeline works. 
+This is a great tutorial from Medium.com(https://medium.com/swlh/why-deep-learning-ensembles-outperform-bayesian-neural-networks-dba2cd34da24) which allowed me to train and test a dataset from MNIST.  Despite the challenges with using eGPUs and the Mac OS, it also enabled me to verify that my local deep learning pipeline works with both plaidML (https://plaidml.github.io/plaidml/docs/install#macos) and my Radeon card.  
